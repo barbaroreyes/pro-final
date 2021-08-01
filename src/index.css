@@ -93,7 +93,7 @@ nav ul {
 /* Hero Section */
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url(./assets/hero-background.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url('https://profinale2bf2c624a5f488680ba42720270c727214222-dev.s3.amazonaws.com/public/images/Bisteck+Ensebollado+miercoles.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
