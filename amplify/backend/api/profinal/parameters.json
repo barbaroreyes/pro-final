@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "profinal",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authprofinal18c77f60",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
